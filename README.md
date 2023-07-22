@@ -5,5 +5,7 @@ Leveraging the powerful concept of cosine similarity, this project employs advan
 
 Try the app out here ---> [App link](https://movierecommendersystem-92s9yi20jtc.streamlit.app/)
 
-[](https://github.com/SatyamedhasP/Movie_Recommender__System/blob/master/Screenshot.png)
+<p align="center">
+  <img src="https://github.com/SatyamedhasP/Movie_Recommender__System/blob/master/Screenshot.png" width="50%">
+</p>
 
